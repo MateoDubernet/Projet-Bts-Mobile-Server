@@ -30,3 +30,6 @@ Ce projet est composé de plusieurs fichiers `.pde` (fichiers Processing).
 Ce serveur est utilisé conjointement avec le projet client disponible ici :
 https://github.com/MateoDubernet/Projet-Bts-Mobile-Client
 
+Plus d'info sur le projet dans mon rapport de projet disponible ici :
+https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/edit?tab=t.0
+
