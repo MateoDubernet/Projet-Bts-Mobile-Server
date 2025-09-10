@@ -25,14 +25,8 @@ Ce projet est composé de plusieurs fichiers `.pde` (fichiers Processing).
 
 ---
 
-## Lancer le serveur
-
-1. Cloner le dépôt :  
-   ```bash
-   git clone https://github.com/ton-pseudo/nom-du-repo-serveur.git
-   cd nom-du-repo-serveur
-
 ## Projet lié
 
 Ce serveur est utilisé conjointement avec le projet client disponible ici :
 https://github.com/MateoDubernet/Projet-Bts-Mobile-Client
+
