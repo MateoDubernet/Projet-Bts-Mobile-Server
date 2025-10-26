@@ -6,7 +6,7 @@ Le serveur utilise la librairie **WebSocket** pour gérer la communication en te
 
 ---
 
-## Projet lié
+## Projets lié
 
 Ce serveur est utilisé conjointement avec le projet client disponible ici :
 https://github.com/MateoDubernet/Projet-Bts-Mobile-Client
@@ -40,3 +40,4 @@ Ce projet est composé de plusieurs fichiers `.pde` (fichiers Processing).
 1. Ouvrir tous les fichiers .pde
 2. Cliquer sur le bouton play de processing
 3. Lancer le client (https://github.com/MateoDubernet/Projet-Bts-Mobile-Client)
+
