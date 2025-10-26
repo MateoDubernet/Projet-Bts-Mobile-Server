@@ -10,15 +10,7 @@ Plus d'info sur le projet dans mon rapport de projet disponible ici : https://do
 
 ---
 
-## Structure du projet
-
-Ce projet est composé de plusieurs fichiers `.pde` (fichiers Processing).  
-**Important :** pour que le projet fonctionne correctement, il faut ouvrir **tous les fichiers dans Processing** (ils doivent être chargés ensemble dans l’IDE).
-
----
-
 ## Prérequis
-
 - [Processing](https://processing.org/download) (version 4 recommandée)  
 - Librairie **WebSocket for Processing**
 
@@ -34,6 +26,7 @@ Ce projet est composé de plusieurs fichiers `.pde` (fichiers Processing).
 1. Ouvrir tous les fichiers .pde
 2. Cliquer sur le bouton play de processing
 3. Lancer le client (https://github.com/MateoDubernet/Projet-Bts-Mobile-Client)
+
 
 
 
