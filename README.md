@@ -36,9 +36,10 @@ https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/
 
 ### 3. Lancement
 1. Ouvrir le dossier de l'application
-2. Ouvrir tous le fichier serveurJava.pde dans procesing -> une petite fenêtre va s'ouvrir cliquer sur **keep**
+2. Ouvrir le fichier serveurJava.pde dans procesing
 3. Cliquer sur le bouton play de processing
 4. Lancer le client : https://github.com/MateoDubernet/Projet-Bts-Mobile-Client
+
 
 
 
