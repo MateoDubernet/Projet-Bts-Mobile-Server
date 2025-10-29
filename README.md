@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/
 ---
 
 ## Prérequis
-- [Processing](https://processing.org/download) (version 4.4.7 ou inférieur) : https://github.com/processing/processing4/releases/download/processing-1307-4.4.7/processing-4.4.7-windows-x64.msi
+- [Processing](https://github.com/processing/processing4/releases/download/processing-1307-4.4.7/processing-4.4.7-windows-x64.msi) (version 4.4.7 ou inférieur)
 - Librairie **WebSocket for Processing**
 
 ---
@@ -39,6 +39,7 @@ https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/
 2. Ouvrir tous le fichier serveurJava.pde dans procesing -> une petite fenêtre va s'ouvrir cliquer sur **keep**
 3. Cliquer sur le bouton play de processing
 4. Lancer le client : https://github.com/MateoDubernet/Projet-Bts-Mobile-Client
+
 
 
 
