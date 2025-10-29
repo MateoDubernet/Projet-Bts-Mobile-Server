@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/
 ---
 
 ## Prérequis
-- [Processing](https://processing.org/download) (version 4 recommandée)  
+- [Processing](https://processing.org/download) (version 4 recommandée)
 - Librairie **WebSocket for Processing**
 
 ---
@@ -25,19 +25,21 @@ https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/
 ## Installation & Lancement
 ### 1. Cloner le projet
 ```bash
-    git clone <url-du-repo>
+    git clone https://github.com/MateoDubernet/Projet-Bts-Mobile-Server.git
 ```
 
 ### 2. Installer la librairie WebSocket
-1. Ouvrir Processing  
-2. Aller dans : `Sketch > Import Library > Add Library...`  
-3. Rechercher `WebSocket`  
-4. Installer la librairie **WebSocket for Processing**  
+1. Ouvrir Processing
+2. Aller dans : `Sketch > Import Library > Add Library...`
+3. Rechercher `WebSocket`
+4. Installer la librairie **WebSocket for Processing**
 
-### 3. Lancement 
-1. Ouvrir tous les fichiers .pde dans procesing
-2. Cliquer sur le bouton play de processing
-3. Lancer le client : https://github.com/MateoDubernet/Projet-Bts-Mobile-Client
+### 3. Lancement
+1. Ouvrir le dossier de l'application
+2. Ouvrir tous les fichiers .pde dans procesing
+3. Cliquer sur le bouton play de processing
+4. Lancer le client : https://github.com/MateoDubernet/Projet-Bts-Mobile-Client
+
 
 
 
