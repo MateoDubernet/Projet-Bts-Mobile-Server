@@ -30,7 +30,7 @@ https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/
 
 ### 2. Installer la librairie WebSocket
 1. Ouvrir Processing
-2. Aller dans : `Sketch > Import Library > Add Library...`
+2. Aller dans : `Sketch > Import Library > Manage Libraries...`
 3. Rechercher `WebSocket`
 4. Installer la librairie **WebSocket for Processing**
 
@@ -39,6 +39,7 @@ https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/
 2. Ouvrir tous le fichier serveurJava.pde dans procesing -> une petite fenêtre va s'ouvrir cliquer sur **keep**
 3. Cliquer sur le bouton play de processing
 4. Lancer le client : https://github.com/MateoDubernet/Projet-Bts-Mobile-Client
+
 
 
 
